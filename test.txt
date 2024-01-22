@@ -1,2 +1,10 @@
 Dies ist ein Test.
 Noch ein Test.
+
+
+
+sudo apt update
+sudo apt install python3-pip
+
+sudo pip3 install adafruit-circuitpython-ads1x15
+
